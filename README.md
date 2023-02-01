@@ -1,13 +1,17 @@
 # Refactoring_Fun
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+## Description
+
+This was a webpage for a social media marketing company that needed to be refactored. As a developer, It was my job to identify errors and any issues. I was able to make the code slightly more efficient.
+
+- I learned quite a bit about semantic HTML tags while refactoring this code.
+
+## Usage
+
+This website is designed to be a place for clients searching for help with social media management. There are three sections to choose from based on the client's needs. Any link clicked in the navigation bar will prompt the UI to scroll to the respective area on the webpage.
+
+## Credits
+
+None
+
+## Deployed Link
